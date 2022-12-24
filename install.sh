@@ -2,15 +2,15 @@
 
 WORK_DIR=/opt/plugNmeet
 
-## https://raw.githubusercontent.com/mynaparrot/plugNmeet-install/main/install-files
-CONFIG_DOWNLOAD_URL="https://raw.githubusercontent.com/mynaparrot/plugNmeet-install/main/install-files"
+## https://raw.githubusercontent.com/DanDiborn/plugNmeet-install/main/install-files
+CONFIG_DOWNLOAD_URL="https://raw.githubusercontent.com/DanDiborn/plugNmeet-install/main/install-files"
 
-## https://github.com/mynaparrot/plugNmeet-client/releases/latest/download/client.zip
-CLIENT_DOWNLOAD_URL="https://github.com/mynaparrot/plugNmeet-client/releases/latest/download/client.zip"
-RECORDER_DOWNLOAD_URL="https://github.com/mynaparrot/plugNmeet-recorder/releases/latest/download/recorder.zip"
+## https://github.com/DanDiborn/plugNmeet-client/releases/latest/download/client.zip
+CLIENT_DOWNLOAD_URL="https://github.com/DanDiborn/plugNmeet-client/releases/latest/download/client.zip"
+RECORDER_DOWNLOAD_URL="https://github.com/DanDiborn/plugNmeet-recorder/releases/latest/download/recorder.zip"
 
-## https://raw.githubusercontent.com/mynaparrot/plugNmeet-server/main/sql_dump/install.sql
-SQL_DUMP_DOWNLOAD_URL="https://raw.githubusercontent.com/mynaparrot/plugNmeet-server/main/sql_dump/install.sql"
+## https://raw.githubusercontent.com/DanDiborn/plugNmeet-server/main/sql_dump/install.sql
+SQL_DUMP_DOWNLOAD_URL="https://raw.githubusercontent.com/DanDiborn/plugNmeet-server/main/sql_dump/install.sql"
 
 main() {
   can_run
